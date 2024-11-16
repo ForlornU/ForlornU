@@ -6,7 +6,8 @@ Game Developer focusing on both **Unity** and **Godot**.
 - **Game Engines**: Unity, Godot
 - **Programming Languages**: C#, GDScript
 
-## 🤝 Connect with Me  
+## 🤝 Connect with Me 
+- 🎥 **Watch my videos** on [YouTube](https://www.youtube.com/channel/forlornu) 
 - 🌟 **Follow me** on [Bluesky](https://bsky.app/profile/forlornu.bsky.social)  
 - 🎨 **Freelance Work** on [Fiverr](https://www.fiverr.com/forlornu) 
 
