@@ -9,10 +9,10 @@ Game Developer focusing on both **Unity** and **Godot**.
 ## 🤝 Connect with Me 
 - 🎥 **Watch my videos** on [YouTube](https://www.youtube.com/channel/forlornu) 
 - 🎨 **Freelance Work** on [Fiverr](https://www.fiverr.com/forlornu) 
-
+- 🌟 **Follow me** on [Bluesky](https://bsky.app/profile/forlornu.bsky.social)
 
 <!--
-
+@forlornu.bsky.social
 put this right after the fiverr link:  | [Upwork](https://www.upwork.com/freelancers/~yourusername) 
 
 
